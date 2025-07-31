@@ -28,18 +28,20 @@ CommandPad uses KMK to power everything.
 
 ## BOM
 
-9x Cherry MX Switches
-9x Blank DSA Keycaps
-5x M3x5x4 Heatset inserts
-5x M3x16mm SHCS Bolts
-9x 1N4148 DO-35 Diodes
-2x Through hole resistors 4.7k
-9x Through hole capacitor 100nF (.1uF)
-9x SK6812 MINI-E LEDs
-1x 0.91" 128x32 OLED Display
-2x EC11 Rotary Encoder
-1x Seeed XIAO RP2040, through hole
-1x MCP23017, through hole
-1x 74AHCT125, through hole
-1x PCB
-1x Case (3 printed parts)
+| Item                        | Quantity | Type/Details                |
+|-----------------------------|----------|-----------------------------|
+| Cherry MX Switches          | 9        | Mechanical switches         |
+| Blank DSA Keycaps           | 9        | Keycaps                     |
+| M3x5x4 Heatset inserts      | 5        | Hardware                    |
+| M3x16mm SHCS Bolts          | 5        | Hardware                    |
+| 1N4148 DO-35 Diodes         | 9        | Through hole                |
+| Through hole resistors      | 2        | 4.7k                        |
+| Through hole capacitors     | 9        | 100nF (0.1uF)               |
+| SK6812 MINI-E LEDs          | 9        | RGB LEDs                    |
+| 0.91" 128x32 OLED Display   | 1        | Display                     |
+| EC11 Rotary Encoder         | 2        | Rotary encoder              |
+| Seeed XIAO RP2040           | 1        | Through hole                |
+| MCP23017                    | 1        | Through hole                |
+| 74AHCT125                   | 1        | Through hole                |
+| PCB                         | 1        | Printed circuit board       |
+| Case (3 printed parts)      | 1        | 3D printed enclosure        |
