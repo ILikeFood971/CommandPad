@@ -1,0 +1,5 @@
+psutil>=5.8.0
+pyserial>=3.5
+pycaw>=20220416
+comtypes>=1.1.14
+winrt-Windows.Media.Control>=1.0.0
